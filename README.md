@@ -14,10 +14,10 @@
     <img src="/public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Front-Office Deliveboo</h3>
+  <h3 align="center">Front-end Deliveboo</h3>
 
   <p align="center">
-    Front-office di una web app che permette di ordinare cibo a domicilio nella tua città!
+    Front-end di una web app che permette di ordinare cibo a domicilio nella tua città!
   </p>
 </div>
 
